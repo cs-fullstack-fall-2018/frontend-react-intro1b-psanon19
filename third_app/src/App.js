@@ -9,8 +9,9 @@ class App extends Component {
         <div className="App">
             <p>School Time</p>
             <StudentList schoolInfo = {
-                [{firstName:"Pelane",grade:97},
-                    {firstName:"Caleb",grade:65}]
+                [{firstName:"Pelane",grade:88},
+                    {firstName:"Caleb",grade:100},
+                    {firstName:"Jp",grade:101}]
             }/> </div>
     );
   }
